@@ -9,3 +9,7 @@ Poderia dizer que somente usando esse conceito de atomos com desing, ficou muito
 ### Capitulo 02 - O que fot aprendido 
 - Um padrão para nomear as classes de CSS;
 - Conhecemos a metodologia BEM.
+### Capitulo 03 - O que foi aprendido
+- Organização e estrutura de arquivos .css;
+- Separação de responsabilidades;
+- A criar e manter arquivos menores.
