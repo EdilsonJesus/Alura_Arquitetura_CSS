@@ -13,3 +13,7 @@ Poderia dizer que somente usando esse conceito de atomos com desing, ficou muito
 - Organização e estrutura de arquivos .css;
 - Separação de responsabilidades;
 - A criar e manter arquivos menores.
+### Capitulo 04 - O que foi aprendido
+- Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
+- Boas práticas com importação de imagens;
+- A manter as estilizações nos arquivos de estilo.
