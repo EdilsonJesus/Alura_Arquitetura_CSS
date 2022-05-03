@@ -17,3 +17,6 @@ Poderia dizer que somente usando esse conceito de atomos com desing, ficou muito
 - Imagens ilustrativas devem estar referenciadas em nossos arquivos .css
 - Boas práticas com importação de imagens;
 - A manter as estilizações nos arquivos de estilo.
+### Capitulo 05 - O que foi aprendido
+- Tornar um site responsivo;
+- Como configurar a adaptação do site a diferentes tamanhos de tela.
